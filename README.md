@@ -1,5 +1,4 @@
 # Purpose of this repo
 
-This repo is a demo to show how to use the graphql-codegen to fill the gap between GraphQL and typescript and make the process a lot smooth.
+This assessment was assigned to Mphoke Mashabela by Sov Tech. to start the project run yarn start.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
